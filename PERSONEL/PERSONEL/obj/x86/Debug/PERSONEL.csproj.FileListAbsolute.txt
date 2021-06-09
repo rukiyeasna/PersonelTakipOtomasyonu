@@ -1,0 +1,88 @@
+I:\OTOMASYON\PERSONEL\PERSONEL\bin\Debug\PERSONEL.exe
+I:\OTOMASYON\PERSONEL\PERSONEL\bin\Debug\PERSONEL.pdb
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.arama.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Form2.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.kullanici_girisi.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Properties.Resources.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.raporlama.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.silme_güncelleme.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csproj.GenerateResource.Cache
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.exe
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.pdb
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.exe
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.pdb
+E:\OTOMASYON\PERSONEL\PERSONEL\bin\Debug\PERSONEL.exe
+E:\OTOMASYON\PERSONEL\PERSONEL\bin\Debug\PERSONEL.pdb
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.arama.resources
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Form2.resources
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.kullanici_girisi.resources
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Properties.Resources.resources
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.raporlama.resources
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.silme_güncelleme.resources
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csproj.GenerateResource.Cache
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csprojResolveAssemblyReference.cache
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.ANAFORMM.resources
+E:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.GİRİS.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csprojResolveAssemblyReference.cache
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.ANAFORMM.resources
+I:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.GİRİS.resources
+F:\ \OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.exe
+F:\ \OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.pdb
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.exe
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.pdb
+F:\OTOMASYON\PERSONEL\PERSONEL\bin\Debug\PERSONEL.exe
+F:\OTOMASYON\PERSONEL\PERSONEL\bin\Debug\PERSONEL.pdb
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.ANAFORMM.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.arama.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Form2.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.GİRİS.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.kullanici_girisi.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Properties.Resources.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.raporlama.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.silme_güncelleme.resources
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\OTOMASYON\PERSONEL\PERSONEL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.exe
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.pdb
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\bin\Debug\PERSONEL.exe
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\bin\Debug\PERSONEL.pdb
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csprojResolveAssemblyReference.cache
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.ANAFORMM.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.arama.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Form2.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.GİRİS.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.kullanici_girisi.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Properties.Resources.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.raporlama.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.silme_güncelleme.resources
+C:\Users\MELİSSA\Desktop\rukiye otomasyon nihahaha\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csproj.GenerateResource.Cache
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.exe
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.pdb
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\bin\Debug\PERSONEL.exe
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\bin\Debug\PERSONEL.pdb
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csprojResolveAssemblyReference.cache
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.ANAFORMM.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.arama.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Form2.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.GİRİS.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.kullanici_girisi.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Properties.Resources.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.raporlama.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.silme_güncelleme.resources
+C:\Users\rukiy\Desktop\rukiye otomasyon\rukiye otomasyon\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csproj.GenerateResource.Cache
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\bin\Debug\PERSONEL.exe
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\bin\Debug\PERSONEL.pdb
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.ANAFORMM.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.arama.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Form2.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.GİRİS.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.kullanici_girisi.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.Properties.Resources.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.raporlama.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.silme_güncelleme.resources
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.exe
+C:\Users\casper\Desktop\GitHub\PERSONEL\PERSONEL\obj\x86\Debug\PERSONEL.pdb
